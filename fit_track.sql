@@ -1,6 +1,6 @@
 create database Fit_Track;
 use Fit_Track;
--- *********************** creation des tableaux
+-- ************************ creation des tableaux
 
 create table members(
 memberId int(11) primary key,
